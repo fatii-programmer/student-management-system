@@ -27,6 +27,5 @@ Run the Application: Launch the system and start managing student data.
 🤝 Contributing:
 We love contributions! If you'd like to improve our system, please fork the repository, create a new branch, implement your changes, and submit a pull request. Your contributions are what make this project better!
 
-📄 License:
-This project is licensed under the MIT License. Feel free to use and modify it as per your needs.
+
 
