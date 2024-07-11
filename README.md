@@ -25,7 +25,7 @@ Set Up the Database: Prepare your database for storing information.
 Run the Application: Launch the system and start managing student data.
 
 🤝 Contributing:
-We love contributions! If you'd like to improve our system, please fork the repository, create a new branch, implement your changes, and submit a pull request. Your contributions are what make this project better!
+We love contributions! If you'd like to improve our system, please fork the repository, create a new branch, implement your changes, and submit a pull request. Your contributions are what make this project better.
 
 
 
